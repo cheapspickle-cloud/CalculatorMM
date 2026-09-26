@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Kalkulator BP Memento Mori</title>
+</head>
+<body>
+    <h1>Kalkulator Combat Power Memento Mori</h1>
+    <p>Hasil perhitungan akan muncul di <b>Console Developer Tools</b> (Tekan F12 -> tab Console).</p>
+
+    <script src="app.js"></script>
+    <script>
+        // Menjalankan simulasi Melia (ID 86), Level 1, Rank 433 saat halaman dimuat
+        runCalculator(86, 1, 433);
+    </script>
+</body>
+</html>
